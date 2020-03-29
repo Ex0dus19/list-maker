@@ -1,4 +1,4 @@
-#Sun Mar 29 14:45:50 MDT 2020
-base.0=C\:\\Users\\jminn\\Desktop\\ListMaker\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+#Sun Mar 29 15:08:45 MDT 2020
+base.0=C\:\\Users\\jminn\\Desktop\\ListMaker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
