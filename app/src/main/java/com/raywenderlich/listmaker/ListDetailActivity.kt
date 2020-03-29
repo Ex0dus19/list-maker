@@ -44,11 +44,11 @@ import android.widget.EditText
 
 class ListDetailActivity : AppCompatActivity() {
 
-  lateinit var addTaskButton: FloatingActionButton
+  lateinit var list: TaskList
 
   lateinit var listItemsRecyclerView: RecyclerView
 
-  lateinit var list: TaskList
+  lateinit var addTaskButton: FloatingActionButton
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
